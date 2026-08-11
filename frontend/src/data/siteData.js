@@ -6,7 +6,7 @@ export const site = {
   phone: "+91 7317837060",
   location: "Gorakhpur, Uttar Pradesh",
 
-  github: "https://github.com/yourusername",
+  github: "https://github.com/shivendra1331",
   linkedin: "https://www.linkedin.com/in/yourusername/",
   leetcode: "https://leetcode.com/u/yourusername/",
 
