@@ -7,7 +7,7 @@ export const site = {
   location: "Gorakhpur, Uttar Pradesh",
 
   github: "https://github.com/shivendra1331",
-  linkedin: "https://www.linkedin.com/in/yourusername/",
+  linkedin: "https://linkedin.com/in/shivendra-singh-9b224925b",
   leetcode: "https://leetcode.com/u/yourusername/",
 
   resume: "/Shivendra_cv.pdf",
