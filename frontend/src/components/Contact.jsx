@@ -25,7 +25,7 @@ export default function Contact() {
             </div>
           </div>
 
-          <div className="border-t bg-white p-7 sm:p-10 lg:border-l lg:border-t-0 border-white/5 ">
+          <div className="border-t bg-zinc-300 p-7 sm:p-10 lg:border-l lg:border-t-0 border-white/5 ">
             <div className="space-y-3">
               <a href={`mailto:${site.email}`} className="flex items-center gap-4 border  p-4 transition hover:border-emerald-400/40 border-white/10">
                 <span className="grid h-10 w-10 place-items-center bg-emerald-400/10 text-emerald-500"><Mail size={17} /></span>

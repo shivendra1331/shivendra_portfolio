@@ -29,7 +29,7 @@ export default function Navbar() {
           </span>
           <span className="text-2xl">
             {site.shortName}
-            <span className="text-emerald-500">.</span>
+            <span className="text-emerald-500 text-2xl">.</span>
           </span>
         </button>
 

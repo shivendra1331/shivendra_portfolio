@@ -81,23 +81,23 @@ export const experience = [
 
 export const projects = [
   {
-    title: "QuickChat",
-    category: "MERN / REAL-TIME",
-    description:
-      "A responsive real-time chat application with authentication, protected routes and live messaging.",
-    image: "/project-quickchat.svg",
-    tags: ["React", "Node.js", "MongoDB", "Socket.io"],
-    github: "https://github.com/yourusername/quickchat",
-    live: "#",
-  },
-  {
     title: "Imagify",
     category: "FULL STACK / AI",
     description:
       "A polished full-stack image generation experience with authentication and an intuitive creation flow.",
-    image: "/project-imagify.svg",
+    image: "imagify.png",
     tags: ["React", "Express", "MongoDB", "JWT"],
-    github: "https://github.com/yourusername/imagify",
+    github: "https://github.com/shivendra1331/imagify",
+    live: "https://imagify-client-r75w.onrender.com",
+  },
+  {
+    title: "QuickBlog",
+    category: "MERN / BLOG PLATFORM",
+    description:
+      "A full-stack blogging platform with authentication, blog creation, image uploads, categories and a responsive user experience.",
+    image: "quickblog.png",
+    tags: ["React", "Node.js", "MongoDB", "Express.js"],
+    github: "https://github.com/shivendra1331/QuickBlog",
     live: "#",
   },
   {
