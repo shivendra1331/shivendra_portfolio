@@ -23,7 +23,7 @@ export default function Projects() {
               <div className="p-5">
                 <div className="flex items-start justify-between gap-4">
                   <h3 className="text-lg font-black tracking-[-.03em] text-white">{project.title}</h3>
-                  <span className="text-[9px] font-bold text-white">0{index + 1}</span>
+                  {/* <span className="text-[9px] font-bold text-white">0{index + 1}</span> */}
                 </div>
                 <p className="mt-2 text-[12px] leading-6 text-zinc-400">{project.description}</p>
 
